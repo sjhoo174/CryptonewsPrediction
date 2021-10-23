@@ -1,0 +1,21 @@
+version: "3"
+services:
+    st-app:
+        build: .
+        ports:
+            - "443:443"
+            - "80:80"
+            - "4000:8080"
+        volumes: 
+            - ".:/usr/src/app"
+      
+
+    # neo4j:
+    #     image:
+
+
+
+
+
+
+

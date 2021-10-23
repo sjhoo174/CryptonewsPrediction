@@ -1,0 +1,5 @@
+model_config:
+  ner_model_path: "./prediction/models/ner-model.pt"
+  sent_model_path: "./prediction/models/sent_model/"
+db:
+  database_path: "./db/sqlite.db"

@@ -1,0 +1,321 @@
+npm WARN npm npm does not support Node.js v10.24.0
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+
+> chartserve@0.1.0 build /usr/src/app/api/chartserve
+> react-scripts build
+
+Creating an optimized production build...
+Compiled with warnings.
+
+src/App.js
+  Line 31:5:    Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 134:27:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 135:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 140:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 250:28:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 254:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 258:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 261:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 265:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 269:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 276:5:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 416:37:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+  Line 422:11:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  113.3 KB  build/static/js/2.f289e4ac.chunk.js
+  5.67 KB   build/static/js/main.09b05be5.chunk.js
+  1.21 KB   build/static/css/main.a5ac139b.chunk.css
+  774 B     build/static/js/runtime-main.cc87699c.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+sudo: dig: command not found
+HOSTNAME=eec83a4de871
+LANG=C.UTF-8
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+MAIL=/var/mail/root
+LOGNAME=root
+USER=root
+HOME=/root
+SHELL=/bin/bash
+TERM=unknown
+SUDO_COMMAND=/usr/bin/env
+SUDO_USER=root
+SUDO_UID=0
+SUDO_GID=0
+npm WARN npm npm does not support Node.js v10.24.0
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+
+> chartserve@0.1.0 build /usr/src/app/api/chartserve
+> react-scripts build
+
+Creating an optimized production build...
+Compiled with warnings.
+
+src/App.js
+  Line 31:5:    Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 134:27:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 135:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 140:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 250:28:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 254:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 258:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 261:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 265:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 269:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 276:5:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 416:37:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+  Line 422:11:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  113.3 KB          build/static/js/2.f289e4ac.chunk.js
+  5.56 KB (-104 B)  build/static/js/main.dec145d3.chunk.js
+  1.21 KB           build/static/css/main.a5ac139b.chunk.css
+  774 B             build/static/js/runtime-main.cc87699c.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+
+npm WARN npm npm does not support Node.js v10.24.0
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+
+> chartserve@0.1.0 build /usr/src/app/api/chartserve
+> react-scripts build
+
+Creating an optimized production build...
+Compiled with warnings.
+
+src/App.js
+  Line 31:5:    Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 134:27:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 135:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 140:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 250:28:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 254:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 258:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 261:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 265:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 269:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 276:5:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 416:37:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+  Line 422:11:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  113.3 KB  build/static/js/2.f289e4ac.chunk.js
+  5.56 KB   build/static/js/main.dec145d3.chunk.js
+  1.21 KB   build/static/css/main.a5ac139b.chunk.css
+  774 B     build/static/js/runtime-main.cc87699c.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+
+npm WARN npm npm does not support Node.js v10.24.0
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+
+> chartserve@0.1.0 build /usr/src/app/api/chartserve
+> react-scripts build
+
+Creating an optimized production build...
+Compiled with warnings.
+
+src/App.js
+  Line 32:5:    Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 37:17:   Expected '===' and instead saw '=='                               eqeqeq
+  Line 133:27:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 134:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 139:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 252:28:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 256:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 260:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 263:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 267:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 271:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 278:5:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 418:37:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+  Line 424:11:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  113.29 KB  build/static/js/2.daa080a2.chunk.js
+  5.64 KB    build/static/js/main.4a4d305b.chunk.js
+  1.21 KB    build/static/css/main.a5ac139b.chunk.css
+  774 B      build/static/js/runtime-main.cc87699c.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+
+npm WARN npm npm does not support Node.js v10.24.0
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+
+> chartserve@0.1.0 build /usr/src/app/api/chartserve
+> react-scripts build
+
+Creating an optimized production build...
+Compiled with warnings.
+
+src/App.js
+  Line 32:5:    Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 37:17:   Expected '===' and instead saw '=='                               eqeqeq
+  Line 133:27:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 134:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 139:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 252:28:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 256:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 260:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 263:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 267:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 271:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 278:5:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 418:37:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+  Line 424:11:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  113.29 KB  build/static/js/2.daa080a2.chunk.js
+  5.64 KB    build/static/js/main.4a4d305b.chunk.js
+  1.21 KB    build/static/css/main.a5ac139b.chunk.css
+  774 B      build/static/js/runtime-main.cc87699c.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+
+npm WARN npm npm does not support Node.js v10.24.0
+npm WARN npm You should probably upgrade to a newer version of node as we
+npm WARN npm can't make any promises that npm will work with this version.
+npm WARN npm Supported releases of Node.js are the latest release of 4, 6, 7, 8, 9.
+npm WARN npm You can find the latest version at https://nodejs.org/
+
+> chartserve@0.1.0 build /usr/src/app/api/chartserve
+> react-scripts build
+
+Creating an optimized production build...
+Compiled with warnings.
+
+src/App.js
+  Line 32:5:    Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 37:17:   Expected '===' and instead saw '=='                               eqeqeq
+  Line 133:27:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 134:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 139:7:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 252:28:  Expected '===' and instead saw '=='                               eqeqeq
+  Line 256:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 260:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 263:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 267:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 271:11:  Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 278:5:   Do not mutate state directly. Use setState()                      react/no-direct-mutation-state
+  Line 418:37:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+  Line 424:11:  Array.prototype.map() expects a return value from arrow function  array-callback-return
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  113.29 KB  build/static/js/2.daa080a2.chunk.js
+  5.64 KB    build/static/js/main.4a4d305b.chunk.js
+  1.21 KB    build/static/css/main.a5ac139b.chunk.css
+  774 B      build/static/js/runtime-main.cc87699c.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
